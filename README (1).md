@@ -1,6 +1,6 @@
 # CUDA Nested Square Pattern Generator
 
-> **Concurrent Programming Practical Examination** 
+> **Concurrent Programming** 
 ---
 
 ## Problem Statement

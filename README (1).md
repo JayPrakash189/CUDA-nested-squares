@@ -1,9 +1,6 @@
 # CUDA Nested Square Pattern Generator
 
-> **Concurrent Programming Practical Examination**  
-> Roll Number: **25201328** | Hard (CO4) – DS11  
-> Implementation: CUDA Python (Numba) | Google Colab
-
+> **Concurrent Programming Practical Examination** 
 ---
 
 ## Problem Statement
@@ -123,6 +120,4 @@ MIT License — free to use for academic purposes.
 
 ## Author
 
-**Roll No:** 25201328  
-**Exam:** Concurrent Programming Practical  
-**Date:** June 2025
+Jay Prakash

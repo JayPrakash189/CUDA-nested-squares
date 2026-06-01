@@ -8,8 +8,6 @@
 Generate a **nested (concentric) square pattern** using CUDA, where each thread computes the coordinates of concentric squares on a large image grid. Compare performance with a sequential CPU implementation.
 
 - **Dataset:** DS11 – Wikipedia Text Corpus (large-scale data, simulated as a 4096×4096 image grid)
-- **Marks:** 40 (Hard)
-- **Course Outcome:** CO4
 
 ---
 
